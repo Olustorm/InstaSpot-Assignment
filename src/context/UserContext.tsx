@@ -29,7 +29,7 @@ export const UserProvider: React.FC<UserProviderProps> = ({ children }) => {
   const [user, setUser] = useState<User>({
     name: 'Bessie Coleman',
     field: 'Civil Aviator',
-    avatar: '/img/Avatar.png'
+    avatar: '/assets/Avatar.png'
   });
 
   const updateUser = (userData: User) => {

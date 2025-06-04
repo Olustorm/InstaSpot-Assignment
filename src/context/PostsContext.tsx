@@ -34,42 +34,42 @@ export const PostsProvider: React.FC<PostsProviderProps> = ({ children }) => {
       id: '1',
       title: 'Val Thorens',
       description: 'Beautiful view from the peak',
-      imageUrl: './img/Mask group.png',
+      imageUrl: './assets/Mask group.png',
       liked: false
     },
     {
       id: '2',
       title: 'Restaurant terrace',
       description: 'Peaceful morning at the beach',
-      imageUrl: './img/pexels-kassandre-pedro-8639743 1.png',
+      imageUrl: './assets/pexels-kassandre-pedro-8639743 1.png',
       liked: false
     },
     {
       id: '3',
       title: 'An outdoor cafe',
       description: 'Downtown at night',
-      imageUrl: './img/Mask group (1).png',
+      imageUrl: './assets/Mask group (1).png',
       liked: false
     },
     {
       id: '4',
       title: 'A very long bridge, over the forest …',
       description: 'Hidden path through the woods',
-      imageUrl: './img/pexels-kassandre-pedro-8639743 1-3.png',
+      imageUrl: './assets/pexels-kassandre-pedro-8639743 1-3.png',
       liked: false
     },
     {
       id: '5',
       title: 'Tunnel with morning light',
       description: 'Endless dunes at sunrise',
-      imageUrl: './img/pexels-kassandre-pedro-8639743 1-4.png',
+      imageUrl: './assets/pexels-kassandre-pedro-8639743 1-4.png',
       liked: false
     },
     {
       id: '6',
       title: 'Mountain house',
       description: 'Aurora borealis in winter',
-      imageUrl: './img/Mask group (4).png',
+      imageUrl: './assets/Mask group (4).png',
       liked: false
     }
   ]);
